@@ -109,4 +109,12 @@
     .landing-page-image-container{
         width: 100%;
     }
+    
+    .email-text{
+        display: none;
+    }
+
+    .instagram-text{
+        display: none;
+    }
 }
