@@ -105,4 +105,8 @@
         line-height: 93.6px;
         text-align: left;
     }
+
+    .landing-page-image-container{
+        width: 100%;
+    }
 }
