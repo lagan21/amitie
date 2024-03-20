@@ -1,4 +1,9 @@
 
+
+.body{
+    margin: 0 !important;
+}
+
 .landing-page {
     display: flex;
     flex-direction: row;
