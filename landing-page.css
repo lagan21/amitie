@@ -45,6 +45,7 @@
 .landing-page-content-socials-container{
     display: flex;
     flex-direction: row;
+    gap: 10px;
 }
 
 
@@ -52,16 +53,23 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
 }
 
 .landing-page-content-socials-email-container{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
 }
 
 .instagram-logo-container{
     justify-content: center;
+}
+
+.instagram-logo {
+    width: 20px;
+    height: 20px;
 }
 
 .instagram-text-container{
@@ -76,6 +84,11 @@
 
 .email-logo-container{
     justify-content: center;
+}
+
+.email-logo{
+    width: 20px;
+    height: 20px;
 }
 
 .email-text-container{
