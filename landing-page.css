@@ -59,6 +59,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    gap: 5px;
 }
 
 .landing-page-content-socials-email-container{
@@ -66,6 +67,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    gap: 5px;
 }
 
 .instagram-logo-container{
