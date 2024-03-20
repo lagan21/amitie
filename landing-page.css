@@ -1,0 +1,96 @@
+
+.landing-page {
+    display: flex;
+    flex-direction: row;
+}
+
+.landing-page-image-container{
+    width: 50%;
+}
+
+.landing-page-image{
+    width: 100%;
+}
+
+.landing-page-content-container{
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+}
+
+.landing-page-content-title-text{
+    font-family: "bely-display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 132px;
+    margin: 0 0 0 0;
+}
+
+/* add other components to styple here */
+
+
+.landing-page-content-description-text{
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.landing-page-content-learn-more-text{
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.landing-page-content-socials-container{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.landing-page-content-socials-instagram-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.landing-page-content-socials-email-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.instagram-logo-container{
+    justify-content: center;
+}
+
+.instagram-text-container{
+    justify-content: center;
+}
+
+.instagram-text{
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.email-logo-container{
+    justify-content: center;
+}
+
+.email-text-container{
+    justify-content: center;
+}
+
+.email-text{
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.landing-page-content-hosts-text{
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
